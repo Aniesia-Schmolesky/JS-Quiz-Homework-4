@@ -29,7 +29,7 @@ This JavaScript quoz is meant to help students study different concepts that the
  
 # Features
 
- Quiz timer starts once you begin
+ Quiz timer starts once you begin.
  
  Wrong answers deduct 10 seconds.
  
