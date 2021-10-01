@@ -35,7 +35,7 @@ This JavaScript quoz is meant to help students study different concepts that the
  
  your final score is displayed in top score
  
- # Website Links:
+ # Website Links: 
  
 github repo: https://github.com/Aniesia-Schmolesky/JS-Quiz-Homework-4
 
