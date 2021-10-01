@@ -1,11 +1,11 @@
 # JS-Quiz-Homework-4
 Test your JavaScript knowledge by taking this quiz. Compare your top score with your fellow classmates.
 
-#Description
+# Description
 
 Test your JavaScript knowledge by taking this quiz. Compare your top score with your fellow classmates.
 
-#Table of Contents
+# Table of Contents
 
 Installation
 
@@ -15,7 +15,7 @@ License
 
 Features
 
-#Usage
+# Usage
 
 This JavaScript quoz is meant to help students study different concepts that they're learning in their web developement bootcamp.
 
@@ -23,11 +23,11 @@ This JavaScript quoz is meant to help students study different concepts that the
 ![image](https://user-images.githubusercontent.com/85134150/124703398-164d4700-dea7-11eb-8a07-21e60e634560.png)
 
 
-#License
+# License
 
  n/a
  
-#Features
+# Features
 
  Quiz timer starts once you begin
  
@@ -35,7 +35,7 @@ This JavaScript quoz is meant to help students study different concepts that the
  
  your final score is displayed in top score
  
- #Website Links:
+ # Website Links:
  
 github repo: https://github.com/Aniesia-Schmolesky/JS-Quiz-Homework-4
 
