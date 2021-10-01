@@ -31,7 +31,7 @@ This JavaScript quoz is meant to help students study different concepts that the
 
  Quiz timer starts once you begin
  
- Wrong answers deduct 10 seconds
+ Wrong answers deduct 10 seconds.
  
  your final score is displayed in top score
  
